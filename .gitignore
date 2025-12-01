@@ -1,0 +1,68 @@
+# -------------------------
+# Python
+# -------------------------
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~
+
+
+# -------------------------
+# NLTK Data
+# -------------------------
+
+nltk_data/
+mycorpus/
+
+# -------------------------
+# macOS System Files
+# -------------------------
+
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+# -------------------------
+# VS Code / IDE Settings
+# -------------------------
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# Cache / Temporary Files
+# -------------------------
+
+*.tmp
+*.temp
+*.cache
+*~
+
+mycorpus
